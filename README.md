@@ -1,5 +1,5 @@
 # android-dual-sim
-Android SMS manager for dual sim phones is a simple SMSManager to send the SMS from dual SIM.
+Android SMS manager for dual sim phones is a simple library to send the SMS from dual SIM.
 
 ## Example
     Telephony telephony = Telephony.getInstance(context);
