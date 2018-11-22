@@ -1,5 +1,5 @@
 # android-dual-sim
-a simple library to send sms, make calls from dual SIM android phone
+a simple library for sending sms, making calls from dual SIM android phone
 
 ## Example
 ```java
